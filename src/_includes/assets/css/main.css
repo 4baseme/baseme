@@ -42,8 +42,8 @@ a:hover {
   text-decoration: underline;
 }
 
-@media (max-width: 720px) {
-    .welcome p {
-        font-size: 18px;
-      }
+@media (max-width: 768px) {
+  .welcome p {
+    font-size: 20px;
+  }
 }
